@@ -1,0 +1,40 @@
+#container {
+  text-align: center;
+
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  height: 150000px;
+}
+h2{
+  padding-left: 10px;
+}
+
+ion-label {
+  font-size: 20px;
+  line-height: 18px;
+  font-weight: bold;
+}
+
+.more100{
+  font-size: 12px;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+          line-clamp: 2; 
+  -webkit-box-orient: vertical;
+}
+
+ion-button{
+
+  width: 80%;
+  margin: -10px 0 0 10% ;
+  --padding-bottom: 0px;
+  --padding-top: 0px;
+}
+
+p{
+  font-size: 12px;
+}

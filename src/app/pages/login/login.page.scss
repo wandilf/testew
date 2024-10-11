@@ -1,0 +1,21 @@
+ion-content{
+    --padding-start:2em;
+    --padding-end:2em;
+}
+
+ion-button{
+    margin: 2em 0;
+    --padding-bottom: 20px;
+    --padding-top: 20px;
+}
+
+h1{
+    text-align: left;
+
+    min-width: 100%;
+    margin-top: 100px;
+    span{
+        font-size: 1.2em;
+        font-weight: bolder;
+    }
+}

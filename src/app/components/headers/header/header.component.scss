@@ -1,0 +1,14 @@
+ion-header {
+    background-color: #675bda;
+    --color: #fff;
+    height: 60px;
+}
+
+ion-toolbar {
+    color: #fff;
+    text-align: center;
+    --background: #675bda;
+    ion-title {
+        font-size: 1.5em;
+    }
+}
