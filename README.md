@@ -47,6 +47,10 @@ $ ionic serve
 
 ## Objetivos
 
+[![i](https://github.com/wandilf/testew/blob/main/src/assets/testew1.PNG "i")](https://github.com/wandilf/testew/blob/main/src/assets/testew1.PNG "i")
+
+[![i](https://github.com/wandilf/testew/blob/main/src/assets/testew2.PNG "i")](http://https://github.com/wandilf/testew/blob/main/src/assets/testew2.PNG "i")
+
 **1. Autenticação OAuth (Firebase - Facebook/Google):
 **
 *Funcional na versão Web do Ionic*
