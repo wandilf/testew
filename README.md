@@ -31,6 +31,8 @@ $ npx cap add android
 $ npx cap copy
 $ npx cap sync
 ```
+https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/authentication/docs/setup-google.md
+https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/authentication/docs/setup-facebook.md
 
 # Comandos para rodar localmente
 
